@@ -3,4 +3,4 @@
 Implementation the project of OS course with Dr.Parse
 
 ## Badges
-Jahrom University : [jahromu.ac.ir](https://jahromu.ac.ir/fa)
+Jahrom University : [jahromu.ac.ir](https://jahromu.ac.ir/en)
