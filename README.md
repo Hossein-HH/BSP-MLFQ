@@ -5,20 +5,16 @@ This project showcases the culmination of an Operating Systems (OS) course, wher
 
 ## Project Highlights
 
-- **Dispatch Latency**: 2
-- **Quantum for Round Robin Queue**: 6
-
 The input, neatly organized in the 'assets/input.txt' file, follows this structure:
 
 ```MarkDown
-2   # Dispatch latency
-6   # Quantum for RR queue
+2                # Dispatch latency (2)
+6                # Quantum for RR queue (6)
 P0: 0,5,7,2      # Process P0: Arrival(0), Burst(5, 7, 2)
 P1: 8,8,7,1,11,4 # Process P1: Arrival(8), Burst(8, 7, 1, 11, 4)
 P2: 4,9          # Process P2: Arrival(4), Burst(9)
 P3: 60,7,2,3     # Process P3: Arrival(60), Burst(7, 2, 3)
 ```
-
 
 The resulting output is meticulously composed in 'assets/output.txt' file, and includes:
 
