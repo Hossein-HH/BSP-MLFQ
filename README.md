@@ -1,5 +1,5 @@
 # Multi-Level Feedback Queue Scheduling
-## Round Robin ➔ Highest Response Ratio Next ➔ First-Come, First-Served (FCFS) Implementation in C++
+## Round Robin (RR) ➔ Highest Response Ratio Next (HRRN) ➔ First-Come, First-Served (FCFS) Implementation in C++
 
 This project showcases the culmination of an Operating Systems (OS) course, where we delve into the implementation of a Multi-Level Feedback Queue (MLFQ) scheduling algorithm. Our approach combines three scheduling techniques: Round Robin, Highest Response Ratio Next (HRRN), and First-Come, First-Served (FCFS). The entire project is coded using the C++ programming language.
 
